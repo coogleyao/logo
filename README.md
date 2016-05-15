@@ -1,1 +1,1 @@
-![Lerna](lerna.png)
+![Lerna](lerna-text.png)
